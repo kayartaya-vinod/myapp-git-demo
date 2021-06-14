@@ -3,8 +3,8 @@
 Some of the most popular commands are:
 
 1 `git init`
-1 `git clone`
-1 `git commit`
-1 `git status`
-1 `git push`
-1 `git pull`
+2 `git clone`
+3 `git commit`
+4 `git status`
+5 `git push`
+6 `git pull`
